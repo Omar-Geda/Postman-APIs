@@ -1,0 +1,35 @@
+{
+  "Courses": [
+    {
+      "id": 1,
+      "title": "HTML",
+      "acronym": "Hyper Text Markup Language",
+      "description": "With HTML you can create your own Website.",
+      "duration": 60,
+      "author": "khalid"
+    },
+    {
+      "id": 2,
+      "title": "CSS",
+      "acronym": "Cascading Style Sheets",
+      "description": "CSS is the language we use to style an HTML document.",
+      "duration": 80,
+      "author": "Omar"
+    },
+    {
+      "id": 3,
+      "title": "JS",
+      "acronym": "JavaScript",
+      "description": "JavaScript is the programming language of the Web.",
+      "duration": 200,
+      "author": "Sara"
+    }
+  ],
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$HI6esvu4D1LL8hxzt6q2UeBXaPd1mu7MPwkjaExrZYq7jXDgJNm66",
+      "id": 1
+    }
+  ]
+}
